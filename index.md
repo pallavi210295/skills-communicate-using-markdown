@@ -1,6 +1,6 @@
-# <h1> Life lessons
-## <h2> My way or the highway
-###### <h6> Life is crazy
+# Life lessons
+## My way or the highway
+###### Life is crazy catch Komal
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
@@ -18,3 +18,5 @@ var myVar = "Hello, are you mad!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce life to people
+- [ ] display Komal's foto
+
